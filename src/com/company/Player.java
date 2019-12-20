@@ -24,10 +24,10 @@ public class Player extends Cell {
 
 
     public Player(String name, String color, char currentDirection, int passageOrder) {
-        this.name=name;
-        this.color=color;
-        this.currentDirection=currentDirection;
-        this.passageOrder=passageOrder;
+        this.name = name;
+        this.color = color;
+        this.currentDirection = currentDirection;
+        this.passageOrder = passageOrder;
     }
 
 

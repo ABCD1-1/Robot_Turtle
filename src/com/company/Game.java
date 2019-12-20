@@ -7,7 +7,8 @@ public class Game {
 
     public Game() {
     }
-    public void addPlayer(List<Player> players){
+
+    public void addPlayer(List<Player> players) {
 
     }
 }

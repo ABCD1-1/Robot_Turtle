@@ -1,13 +1,13 @@
 package Card;
 
 public class BlueCard implements Card {
-    private String name="Carte Bleu";
-    private String description="Fait avancer la tortue d'une case";
+    private String name = "Carte Bleu";
+    private String description = "Fait avancer la tortue d'une case";
 
 
     public BlueCard() {
-        this.name=name;   //mettre getName() si y'a un bug
-        this.description=description;
+        this.name = name;   //mettre getName() si y'a un bug
+        this.description = description;
     }
 
     @Override
